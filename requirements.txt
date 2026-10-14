@@ -1,0 +1,20 @@
+# =============================================================================
+# UNIDAD 2 PRÁCTICA 1: EJEMPLOS DE LIBRERÍAS DE PYTHON
+# Dependencias externas requeridas (Instalación vía: pip install -r requirements.txt)
+# =============================================================================
+
+# Generación de documentos PDF
+fpdf2>=2.8.0
+reportlab>=4.0.0
+
+# Ciencia de datos, cálculo numérico y visualización
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+
+# Consumo de APIs y microservicios backend
+requests>=2.31.0
+flask>=3.0.0
+
+# Aprendizaje Automático (Machine Learning)
+scikit-learn>=1.4.0

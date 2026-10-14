@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operativo
+Thumbs.db
+.DS_Store
+
+# Salidas temporales generadas (opcionalmente excluibles, se conserva .gitkeep)
+# output/*
+# !output/.gitkeep
